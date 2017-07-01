@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "constructors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javalava76/flashcard-generator.git"
+  },
+  "author": "kz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javalava76/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/Javalava76/flashcard-generator#readme",
+  "dependencies": {
+    "inquirer": "^3.1.1"
+  }
+}
